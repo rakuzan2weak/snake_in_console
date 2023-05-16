@@ -4,7 +4,9 @@
 
 Установка
 Склонируйте репозиторий на свой компьютер:
+```sh
 git clone https://github.com/username/snake-console.git
+```
 Перейдите в папку проекта:
 cd snake-console/
 Установите зависимости:
