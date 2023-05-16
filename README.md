@@ -1,10 +1,6 @@
 # Змейка в консоли
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Этот репозиторий содержит код для игры "Змейка" в консоли, написанной на языке программирования Python.
-
-![screenshot](screenshot.png)
 
 ## Установка и запуск
 
@@ -40,22 +36,4 @@ python main.py
 Этот проект находится под лицензией MIT. Подробную информацию можно найти в файле [LICENSE](LICENSE).
 А вот код для README.md:
 
-# Название проекта
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Описание проекта.
-
-## Начало работы
-
-### Prerequisites
-
-Что нужно установить на ПК для использования (например: Node.js, библиотеки и т.д.).
-
-### Установка и запуск
-
-Шаги по установке и запуску проекта (например: `npm install`, `npm start`).
-
-## Лицензия
-
-Опционально, информация о лицензии, под которой распространяется проект.
+# Snake in Console
