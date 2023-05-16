@@ -4,7 +4,10 @@
 
 ## Установка и запуск
 
-1. Склонируйте репозиторий на свой компьютер: ```sh git clone https://github.com/rakuzan2weak/snake_in_console.git```
+1. Склонируйте репозиторий на свой компьютер: ```sh
+git clone https://github.com/rakuzan2weak/snake_in_console.git
+```
+
 2. Перейдите в папку с проектом:
 ```sh
 cd snake-game/
