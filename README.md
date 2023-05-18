@@ -82,7 +82,7 @@ cd snake-game/
 
 3. Установите зависимости:
 ```sh
-pip install -r requirements.txt
+pip install curses (windows-curses)
 ```
 
 4. Запустите игру:
